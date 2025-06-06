@@ -22,3 +22,7 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
     background-color: #fffbe7;
 }
+
+.region-nonbreak {
+    white-space: nowrap;
+}
